@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_500">#FF304FFE</color>
+    <color name="primary_800">#FF0F1C93</color>
+    <color name="secundary_500">#FFFFE344</color>
+    <color name="secundary_300">#FFFFF18E</color>
+    <color name="success_500">#FF75C421</color>
+    <color name="info_100">#FFCDFEFB</color>
+    <color name="info_500">#FF23CBFF</color>
+    <color name="info_900">#FF013A77</color>
+    <color name="info_800">#FF025090</color>
+    <color name="warning_200">#FFFFF7B4</color>
+    <color name="warning_500">#FFFFDC00</color>
+    <color name="danger_500">#FFFF6B35</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">@color/info_900</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+
+</resources>

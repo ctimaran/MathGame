@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="app_title">Juego Matemático</string>
+    <string name="terminos_condiciones">Términos y condiciones</string>
+    <string name="app_logo">Logo de la aplicación</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="mate_mate_game">Mate Mate Game</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
